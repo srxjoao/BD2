@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+body {
+        font-family: Arial, sans-serif;
+        background-color: #cef6ff;
+        color: #fff;
+        margin: 0;
+        padding: 0;
+    }
+    
+
+header {
+    background-color: #3f6b88;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: "Gowun Batang", serif;
+    padding: 20px;
+    text-decoration: none;
+}
+.rodape{
+    height: 80px;
+    margin-left: 0;
+    background-color: #3f6b88;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+
+.dev{
+    color: #000000;
+    text-decoration: none;    
+}
+
+.button-camp{
+    margin: 25px;
+}
+
+.btn-list{
+background-color:#a3ceee;
+color:#000000;
+border:none;
+width:190px;
+height:70px;
+font-size: 20px;
+font-family: "PT Serif", serif;
+border-radius:90px;
+transition: box-shadow 0.3s ease;
+}
+
+.btn-list:hover{
+    background-color:#003C56;
+    color: #fff;
+    opacity: 1;
+}
+.btn-list:active {
+    box-shadow: 0 5px 15px rgbargba(59, 131, 121, 0.6);
+    transform: translateY(6px);
+  }
+
+.table-database{
+    width: 100%;
+    height: 650px;
+    margin-bottom: 20px;
+    border: 2px solid;
+    border-color: #a3ceee;
+    text-align: center;
+    text-shadow: 2px 2px #000;
+}
+
+.table-database-colum{
+    height: 10%;
+    background-color: #003C56;
+}
+
+
+td:hover{
+    color: #000;
+    text-shadow: none;
+    text-shadow: 1px 1px #f3f3f3;
+    background-color: #cef6ff;
+}
