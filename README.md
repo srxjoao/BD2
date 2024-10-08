@@ -1,2 +1,22 @@
-# BancoDeDados
-Primeiro projeto da disciplina banco de dados 2 Com o intuito de listar uma tabela com dados de clientes,com uma conexão feita entre banco de dados e o framework express atuando no BACKEND do projeto e REACT no FRONTEND do projeto
+<!--- # "Can be a image or a gift from the project pages" -->
+
+<p align="center">
+</p>
+
+# Projeto de Banco de Dados 2
+
+Description about the project...
+
+## Tech Stack
+
+<!--- # "Verify icons availability here https://github.com/tandpfun/skill-icons" -->
+
+[![My Skills](https://skillicons.dev/icons?i=js,express,nodejs,postgres,vite,react,)](https://skillicons.dev)
+
+## Getting Started
+
+1. **Install Dependencies**: `npm install or yarn`
+2. **Create containers**: `docker-compose up -d`
+3. **Environment variables**: Copy `.env.example` to a new `.env.local`
+4. **Database Setup**: `npx prisma migrate dev --name init`
+5. **Start Developing**: `npm run start:dev (api) & npm run dev (frontend)`
