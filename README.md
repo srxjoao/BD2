@@ -44,6 +44,6 @@ $ npm run dev
 
 - João Pedro de Oliveira Barbosa
 
-## 🧑‍🏫 Professores
+## 🧑‍🏫 Professor
 
 - Silverio Luiz de Souza - Banco de Dados
